@@ -43,3 +43,15 @@ p#aviso {
     font-family: 'Times New Roman';
     text-align: right;
 }
+
+nav {
+    padding: 7px;
+    margin: 7px;
+    background-color: green;
+    display: flex;
+    justify-content: center;
+}
+
+nav a {
+    text-align: center;
+}
